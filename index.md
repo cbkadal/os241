@@ -4,9 +4,6 @@
 
 ## CBKADAL (TBA)
 
-| ______________________________________ | ______________________________________ |
-||
-| [GitHub](https://github.com/cbkadal/os241/) | [GitHub Page](https://cbkadal.github.io/os241/) |
-| ______________________________________ | ______________________________________ |
+| [GitHub Site](https://github.com/cbkadal/os241/) | | [GitHub Page](https://cbkadal.github.io/os241/) |
 
-##### REV01: Sat 27 Jan 2024 09:00
+##### REV02: Sat 27 Jan 2024 09:00
