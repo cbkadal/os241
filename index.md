@@ -4,6 +4,6 @@
 
 ## CBKADAL (TBA)
 
-| [GitHub Site](https://github.com/cbkadal/os241/) | | [GitHub Page](https://cbkadal.github.io/os241/) |
+[MYLOG](TXT/mylog.txt) --- [GitHub Site](https://github.com/cbkadal/os241/) --- [GitHub Page](https://cbkadal.github.io/os241/) 
 
-##### REV03: Sat 27 Jan 2024 20:00
+##### REV04: Sat 27 Jan 2024 20:00
