@@ -1,16 +1,24 @@
 ---
 ---
-# Operating Systems 2024-1 (OS241)
 
-## CBKADAL (TBA)
+# OS241
 
-[MYLOG](TXT/mylog.txt) --- [GitHub Site](https://github.com/cbkadal/os241/) --- [GitHub Page](https://cbkadal.github.io/os241/) 
+|| [TARBALL](SandBox/cbkadal.tar.xz) || [LINKS](LINKS/) || [LOG](TXT/mylog.txt) || [GitHub](https://github.com/cbkadal/os241/) ||
 
-### To Get CBKADAL's TARBALL:
+<br>
+## Check TARBALL:
 
 ```
 wget -c https://cbkadal.github.io/os241/SandBox/cbkadal.tar.xz
 
 ```
 
-##### REV06a: Sun 04 Feb 2024 10:00
+<br>
+## No TMI (Too Much Information), please! 
+You are not "<b>CBKADAL</b>," so you should not disclose your record.
+
+I have spoken!
+
+<br><b>
+#### REV08: Sun 04 Feb 2024 20:00
+<br>
