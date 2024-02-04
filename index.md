@@ -6,4 +6,4 @@
 
 [MYLOG](TXT/mylog.txt) --- [GitHub Site](https://github.com/cbkadal/os241/) --- [GitHub Page](https://cbkadal.github.io/os241/) 
 
-##### REV05: Wed 31 Jan 2024 17:00
+##### REV06: Sun 04 Feb 2024 10:00
