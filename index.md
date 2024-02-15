@@ -20,5 +20,5 @@ You are not "<b>CBKADAL</b>," so you should not disclose your record.
 I have spoken!
 
 <br><b>
-#### REV24: Thu 15 Feb 2024 00:00
+#### REV24a: Thu 15 Feb 2024 07:00
 <br>
