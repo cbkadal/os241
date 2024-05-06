@@ -7,7 +7,7 @@
 # START: Wed 03 Feb 2021 16:00
 
 rm -fv Gemfile.lock
-# gem    install bundler
+gem    install bundler
 gem    update
 bundle install
 bundle clean --force
